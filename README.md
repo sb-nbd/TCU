@@ -2,8 +2,6 @@
 
 ## Temperature Control Circuit in an Enclosure
 
-**Author:** Cebanu Vitalie  
-
 ---
 
 ## Table of Contents
